@@ -1,0 +1,5 @@
+kieserver:
+  url: http://localhost:8080/kie-server/services/rest/server
+  user: wbadmin
+  password: wbadmin
+  container: com.myspace:Ternium:1.0.0-SNAPSHOT
